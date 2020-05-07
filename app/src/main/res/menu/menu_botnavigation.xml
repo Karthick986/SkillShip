@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bot_explore"
+        android:title="Non-tech"
+        android:icon="@drawable/ic_build"/>
+
+    <item
+        android:id="@+id/bot_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+
+
+    <item
+        android:id="@+id/bot_tech"
+        android:title="Tech"
+        android:icon="@drawable/ic_phonelink_setup"/>
+
+</menu>

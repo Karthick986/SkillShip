@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "275170429261",
+    "firebase_url": "https://android-2aac2.firebaseio.com",
+    "project_id": "android-2aac2",
+    "storage_bucket": "android-2aac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275170429261:android:c74aea182195d931a40f04",
+        "android_client_info": {
+          "package_name": "com.example.androidtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275170429261-q6rcpqkcv5q3bckfnn4lk2c4m8i0s0hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8sJPCpdUH7Es2qTcvkN8IdCtrmrNCH_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275170429261-q6rcpqkcv5q3bckfnn4lk2c4m8i0s0hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275170429261:android:8ed27360958eb93da40f04",
+        "android_client_info": {
+          "package_name": "com.example.caferia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275170429261-q6rcpqkcv5q3bckfnn4lk2c4m8i0s0hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8sJPCpdUH7Es2qTcvkN8IdCtrmrNCH_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275170429261-q6rcpqkcv5q3bckfnn4lk2c4m8i0s0hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275170429261:android:237f65ca5e9c56aea40f04",
+        "android_client_info": {
+          "package_name": "our.miniproject.skillship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275170429261-q6rcpqkcv5q3bckfnn4lk2c4m8i0s0hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8sJPCpdUH7Es2qTcvkN8IdCtrmrNCH_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275170429261-q6rcpqkcv5q3bckfnn4lk2c4m8i0s0hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
